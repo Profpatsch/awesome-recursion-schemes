@@ -13,6 +13,8 @@
 - [Understanding Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras) -
   Bartosz Milewski explains F-algebras and shows how to use them in the context of
   catamorphisms.
+- [Don’t fear the cat-armophism (nor the hylomorphism)](http://fho.f12n.de/posts/2014-05-07-dont-fear-the-cat.html) -
+  Short introduction to morphisms & recursion schemes
   
 ## Articles
 
